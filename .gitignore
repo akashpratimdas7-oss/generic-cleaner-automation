@@ -1,0 +1,7 @@
+.vscode/
+before_files/
+after_files/
+*.parquet
+*.csv
+*.xlsx
+*.data
