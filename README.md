@@ -63,7 +63,7 @@ These datasets are publicly available and used only for demonstration.
 before_files/  → raw input files  
 after_files/   → cleaned output files  
 reports/       → cleaning summary reports  
-cleaner.py     → main automation script  
+generic cleaner automation.py     → main automation script  
 
 ## How To Run
 
